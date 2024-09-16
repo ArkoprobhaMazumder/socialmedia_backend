@@ -1,3 +1,7 @@
 Step1: Download the file .
 Step2: On your terminal command: npm install (to download the dependensis)
 Step3: command: npm start.
+
+
+
+Features: Authentication, Authorization, Validation, Cloud Storage, Otp verification, Stateless Restful Application.
