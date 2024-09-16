@@ -1,0 +1,13 @@
+
+
+feature:
+a. User
+b. Post
+c. Comment 
+d. Like
+e. Friends
+
+a.User
+1. Login,
+2. SignUp,
+3. Reset password
